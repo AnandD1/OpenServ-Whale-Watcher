@@ -12,9 +12,9 @@ The **Whale Watcher & Mimic Agent** is an AI-driven blockchain intelligence tool
 Tracking whale wallets is critical in the crypto market. Their large transactions often influence prices and market trends. This project was built for the **OpenServ Hackathon** to automate blockchain monitoring and predictive analysis using AI.
 
 ## Problem It Solves
-✅ **Retail traders lack access to whale transaction insights**  
-✅ **Large transactions can manipulate prices, causing unexpected market movements**  
-✅ **AI-based analytics can help small traders follow whale strategies**  
+- **Retail traders lack access to whale transaction insights**
+- **Large transactions can manipulate prices, causing unexpected market movements**  
+- **AI-based analytics can help small traders follow whale strategies**  
 
 ## Features
 - **Real-time monitoring** of whale transactions
@@ -34,9 +34,9 @@ Tracking whale wallets is critical in the crypto market. Their large transaction
 - **Whale movements provide early signals for market shifts.**
 
 ## Why This Project Stands Out
-✅ **Real-time AI analysis of whale transactions**  
-✅ **Predictive modeling to forecast market behavior**  
-✅ **Seamless integration with OpenServ AI Agents**  
+- **Real-time AI analysis of whale transactions**
+- **Predictive modeling to forecast market behavior**
+- **Seamless integration with OpenServ AI Agents**  
 
 ## Tech Stack
 - **Blockchain API:** Etherscan
