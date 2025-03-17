@@ -59,3 +59,9 @@ git clone https://github.com/your-repo/whale-watcher-mimic-agent.git
 cd whale-watcher-mimic-agent
 npm install
 
+## Setup Environment Variables
+### Create a .env file and add:
+```sh
+OPENSERV_API_KEY=your_openserv_api_key
+ETHERSCAN_API_KEY=your_etherscan_api_key
+GOOGLE_API_KEY=your_google_api_key
