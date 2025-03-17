@@ -54,16 +54,19 @@ Tracking whale wallets is critical in the crypto market. Their large transaction
 - Google AI API Key
 
 ### Installation
-```sh
-git clone https://github.com/your-repo/whale-watcher-mimic-agent.git
-cd whale-watcher-mimic-agent
-npm install
 ```
-## Setup Environment Variables
-### Create a .env file and add:
-```sh
-OPENSERV_API_KEY=your_openserv_api_key
-ETHERSCAN_API_KEY=your_etherscan_api_key
-GOOGLE_API_KEY=your_google_api_key
+git clone https://github.com/openserv-labs/agent-starter.git
 ```
+## Tunneling Options
+Since OpenServ requires a publicly accessible endpoint, choose one of the following tunneling tools:
+
+1. **ngrok** (Recommended for beginners)
+- Easy setup with GUI & CLI
+- Generous free tier with 1 concurrent connection
+- Web interface to inspect requests
+2. **localtunnel** (Open-source alternative)
+Completely free and open-source
+Simple command-line interface
+No account required
+
 
